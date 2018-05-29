@@ -9,6 +9,8 @@ const IndexPage = () => (
     <Link to="/page-2/">Go to page 2</Link>
     <br />
     <Link to="/about/">About</Link>
+    <br />
+    <Link to="/data/">Data</Link>
   </div>
 )
 
